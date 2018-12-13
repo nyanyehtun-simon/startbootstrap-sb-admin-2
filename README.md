@@ -10,6 +10,11 @@ To begin using this template, choose one of the following options to get started
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-sb-admin-2.git`
 * Fork the repo
 
+## Preview can be seen in this link
+```
+https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html
+```
+
 ## Using the Source Files
 
 After cloning the repo take a look at the `gulpfile.js` and check out the tasks available:
